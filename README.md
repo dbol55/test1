@@ -12,18 +12,14 @@
 1) Register as a developer
 2) Install nuget package in Visual Studio
 3) Add reference to package FortnoxAPILibrary
+4) Start coding
    
 ```csharp
-   try 
-   {
-      Customer customer = new Customer();
-      customer.CustomerNumber = "1";
-      customer.Name = "Stefan Andersson";
-   } 
-   catch (Exception ex) 
-   { 
-      Console.WriteLine(ex.Message); 
-   } 
+   var customerConnector = new CustomerConnector();
+   var customer = new Customer();
+   customer.CustomerNumber = "1";
+   customer.Name = "Stefan Andersson";
+   customer = customerConnector.Create(customer);
 ```
 
 
