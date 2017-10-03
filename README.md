@@ -6,7 +6,9 @@
 
 
 ## Fortnox .NET SDK
+This is the official Fortnox .NET SDK for developing integrations towards the main Fortnox API. 
 
+This is a guide to help developers to get started with the .NET SDK by developing a simple console application which creates, retrives, deletes and search for a customer. For a full API reference please visit developer.fortnox.se/documentation/
 
 ## Get started
 1) Register as a developer
@@ -19,7 +21,16 @@
    var customer = new Customer();
    customer.CustomerNumber = "1";
    customer.Name = "Stefan Andersson";
-   customer = customerConnector.Create(customer);
+   customerConnector.Create(customer);
+```
+
+```vbnet
+   Dim customerConnector As New CustomerConnector()
+   Dim customer As New Customer()
+   customer.CustomerNumber = "1";
+   customer.Name = "Stefan Andersson";
+   customerConnector.Create(customer);
+End Function
 ```
 
 
