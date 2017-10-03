@@ -33,11 +33,11 @@ This is a guide to help developers to get started with the .NET SDK by developin
 ```
 
 ## Get help
-For help regarding this package please read our wiki for more information.
+* For help regarding this package please read our wiki for more information.
 <br>
-For help that is not stated in our repository, please file a issue.
+* For help that is not stated in our repository, please file a issue.
 <br>
-For help regarding the main API please visit https://developer.fortnox.se/
+* For help regarding the main API please visit https://developer.fortnox.se/
 
 
 
