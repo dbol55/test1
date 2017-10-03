@@ -13,11 +13,10 @@ This is a guide to help developers to get started with the .NET SDK by developin
 ## Get started
 1) Register as a developer
 2) Install nuget package in Visual Studio
-3) Start coding
+3) Add reference to package FortnoxAPILibrary
+4) Start coding
 
 ```csharp
-   using FortnoxAPILibrary;
-   
    var customerConnector = new CustomerConnector();
    var customer = new Customer();
    customer.CustomerNumber = "1";
@@ -26,8 +25,6 @@ This is a guide to help developers to get started with the .NET SDK by developin
 ```
 
 ```vbnet
-   Imports FortnoxAPILibrary
-   
    Dim customerConnector As New CustomerConnector()
    Dim customer As New Customer()
    customer.CustomerNumber = "1";
@@ -36,9 +33,9 @@ This is a guide to help developers to get started with the .NET SDK by developin
 ```
 
 ## Get help
-For help regarding this package please read wiki for more information.
+For help regarding this package please read our wiki for more information.
 <br>
-For help that is not stated in our repository please file a issue.
+For help that is not stated in our repository, please file a issue.
 <br>
 For help regarding the main API please visit https://developer.fortnox.se/
 
