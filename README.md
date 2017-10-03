@@ -30,8 +30,11 @@ This is a guide to help developers to get started with the .NET SDK by developin
    customer.CustomerNumber = "1";
    customer.Name = "Stefan Andersson";
    customerConnector.Create(customer);
-End Function
 ```
+
+## Get help
+For help regarding this package please read wiki for more information or file a issue.
+For help regarding main API please visit https://developer.fortnox.se/
 
 
 
