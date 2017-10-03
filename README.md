@@ -11,7 +11,7 @@ This is the official Fortnox .NET SDK for developing integrations towards the ma
 This is a guide to help developers to get started with the .NET SDK by developing a simple console application which creates, retrives, deletes and search for a customer. For a full API reference please visit developer.fortnox.se/documentation/
 
 ## Get started
-1) Register as a developer
+1) Register as a <a href="https://developer.fortnox.se/">developer</a>
 2) Install nuget package in Visual Studio
 3) Add reference to package FortnoxAPILibrary
 4) Start coding
