@@ -2,7 +2,7 @@
 
 ***
 
-![alt text](https://raw.githubusercontent.com/dbol55/test1/master/14.jpgyuj)
+![alt text](https://raw.githubusercontent.com/dbol55/test1/master/14.jpg)
 
 
 
