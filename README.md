@@ -6,7 +6,7 @@
 
 
 ## Fortnox .NET SDK
-<span style="text-align: justify">This is the official Fortnox .NET SDK for developing integrations towards the main Fortnox API. The package is not totally alaigned with the main API, but we are pretty close and will try to do conrurrent updates along with the main API. For more information please read our wiki were we have more code examples etc.</span>
+This is the official Fortnox .NET SDK for developing integrations towards the main Fortnox API. The package is not totally alaigned with the main API, but we are pretty close and will try to do conrurrent updates along with the main API. For more information please read our wiki were we have more code examples etc.
 
 ## Get started
 * Register as a <a href="https://developer.fortnox.se/" target="_blank">developer</a>
@@ -30,6 +30,11 @@
    customer.Name = "Stefan Andersson";
    customerConnector.Create(customer);
 ```
+
+## Get informed
+* Code examples in our wiki.
+* Release information (important do always read when install or update)
+* This package is not totally aligned with the main api!
 
 ## Get help
 * For help regarding the main API please visit https://developer.fortnox.se/
