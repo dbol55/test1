@@ -10,6 +10,8 @@ This is the official Fortnox .NET SDK for developing integrations towards the ma
 
 ## Get started
 * Register as a <a href="https://developer.fortnox.se/" target="_blank">developer</a>
+* Take part of our <a href="https://developer.fortnox.se/">release information</a>
+* Take part of <a href="https://developer.fortnox.se/">code examples</a>
 * Install nuget package Fortnox.NET.SDK
 * Start coding
 
