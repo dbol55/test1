@@ -30,17 +30,17 @@ This is the official Fortnox .NET SDK for developing integrations towards the ma
 ```
 
 ## Get help
-* For help regarding this package please read our wiki for more information.
-* For help that is not stated in our repository, please file a issue.
 * For help regarding the main API please visit https://developer.fortnox.se/
-* For help regarding release information please press here.
+* For help regarding this package please read our <a href="https://developer.fortnox.se/" target="_blank">wiki</a>.
+* For help that is not stated in our repository, please file a <a href="https://developer.fortnox.se/" target="_blank">issue</a>.
+* For help regarding release information please read our <a href="https://developer.fortnox.se/" target="_blank">changelog</a>.
 
-## Get license
+## Get licensed
 The MIT License (MIT)
 
 Copyright (c) 2017 Fortnox AB, Jesper Svensson
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
