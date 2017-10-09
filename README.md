@@ -21,7 +21,7 @@ Official .NET SDK for developing integrations towards Fortnox API. Please note t
    customerConnector.Create(customer);
 ```
 
-´´´VB
+```VB
    Dim customerConnector As New CustomerConnector()
    Dim customer As New Customer()
    customer.CustomerNumber = "1";
