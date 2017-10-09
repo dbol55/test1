@@ -6,7 +6,7 @@
 
 
 ## Fortnox .NET SDK
-This is the Official .NET SDK package for developing integrations towards Fortnox REST API. Please note that this package is not totally aligned with the main API, however we are pretty close and will strive to keep up the pace. For more information please visit the official documentation <a href="https://developer.fortnox.se/documentation/">https://developer.fortnox.se/</a>.
+This is the official .NET SDK package for developing integrations towards Fortnox REST API. Please note that this package is not totally aligned with the main API, however we are pretty close and will strive to keep up the pace. For more information please visit the official documentation <a href="https://developer.fortnox.se/documentation/">https://developer.fortnox.se/</a>.
 
 ## Get started
 * Register as <a href="https://developer.fortnox.se/" target="_blank">developer</a>
