@@ -6,24 +6,22 @@
 
 
 ## Fortnox .NET SDK
-This is the official Fortnox .NET SDK for developing integrations towards the main Fortnox API. The package is not totally alaigned with the main API, but we are pretty close and will try to do conrurrent updates along with the main API. For more information please read our wiki were we have more code examples etc.
+Official .NET SDK for developing integrations towards Fortnox API. Please note that this package is not totally aligned with the main API, however we are pretty close and will strive to keep up the pace. For more information and full documentation please visit developer.
 
 ## Get started
-* Register as a <a href="https://developer.fortnox.se/" target="_blank">developer</a>
-* Take part of our <a href="https://developer.fortnox.se/">release information</a>
-* Take part of <a href="https://developer.fortnox.se/">code examples</a>
+* Register as <a href="https://developer.fortnox.se/" target="_blank">developer</a>
 * Install nuget package Fortnox.NET.SDK
 * Start coding
 
-```csharp
+```
+   //C#
    var customerConnector = new CustomerConnector();
    var customer = new Customer();
    customer.CustomerNumber = "1";
    customer.Name = "Stefan Andersson";
    customerConnector.Create(customer);
-```
-
-```vbnet
+   
+   'VB
    Dim customerConnector As New CustomerConnector()
    Dim customer As New Customer()
    customer.CustomerNumber = "1";
@@ -31,16 +29,11 @@ This is the official Fortnox .NET SDK for developing integrations towards the ma
    customerConnector.Create(customer);
 ```
 
-## Get informed
-* Code examples in our wiki.
-* Release information (important do always read when install or update)
-* This package is not totally aligned with the main api!
-
 ## Get help
+* For help regarding this package and code examples visit our <a href="https://developer.fortnox.se/" target="_blank">wiki</a>.
 * For help regarding the main API please visit https://developer.fortnox.se/
-* For help regarding this package please read our <a href="https://developer.fortnox.se/" target="_blank">wiki</a>.
-* For help that is not stated in our repository, please file a <a href="https://developer.fortnox.se/" target="_blank">issue</a>.
-* For help regarding release information please read our <a href="https://developer.fortnox.se/" target="_blank">changelog</a>.
+* For help regarding release information visit our <a href="https://developer.fortnox.se/" target="_blank">changelog</a>.
+* For other help about our package please file a <a href="https://developer.fortnox.se/" target="_blank">issue</a>.
 
 ## Get licensed
 The MIT License (MIT)
