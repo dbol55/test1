@@ -13,15 +13,15 @@ Official .NET SDK for developing integrations towards Fortnox API. Please note t
 * Install nuget package Fortnox.NET.SDK
 * Start coding
 
-```
-   //C#
+```CSharp
    var customerConnector = new CustomerConnector();
    var customer = new Customer();
    customer.CustomerNumber = "1";
    customer.Name = "Stefan Andersson";
    customerConnector.Create(customer);
-   
-   'VB
+```
+
+´´´VB
    Dim customerConnector As New CustomerConnector()
    Dim customer As New Customer()
    customer.CustomerNumber = "1";
@@ -30,10 +30,10 @@ Official .NET SDK for developing integrations towards Fortnox API. Please note t
 ```
 
 ## Get help
-* For help regarding this package and code examples visit our <a href="https://developer.fortnox.se/" target="_blank">wiki</a>.
+* For Help regarding this package and code examples visit our <a href="https://developer.fortnox.se/">wiki</a>.
 * For help regarding the main API please visit https://developer.fortnox.se/
-* For help regarding release information visit our <a href="https://developer.fortnox.se/" target="_blank">changelog</a>.
-* For other help about our package please file a <a href="https://developer.fortnox.se/" target="_blank">issue</a>.
+* For help regarding release information visit our <a href="https://developer.fortnox.se/">changelog</a>.
+* For other help about our package please file a <a href="https://developer.fortnox.se/">issue</a>.
 
 ## Get licensed
 The MIT License (MIT)
